@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="left">💫  About Me</h2>
+<h1 align="left">💫  About Me</h1>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h1 align="left">🛠 Language and tools</h1>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<h2 align="left">📊   Github Stats:</h2>
+<h1 align="left">📊   Github Stats:</h1>
 
 ###
 
