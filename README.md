@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 About Me:<br><br>Hello, My Name is Nizar a basic web developer & network engineer<br><br>I'm learning Tailwindcss, Typescript, React, Next.js<br><br><br><br> 
+Hello, My Name is Nizar a basic web developer & network engineer<br><br>I'm learning Tailwindcss, Typescript, React, Next.js<br><br><br><br> 
 
 
 # 💻 Tech Stack:
