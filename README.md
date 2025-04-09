@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nd0p.nd0p&right_color=green&left_text=Profiles%20views"  />
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub ND0P](https://img.shields.io/github/followers/nd0p?label=follow&style=social)](https://github.com/nd0p)
 </div>
 
 ###
