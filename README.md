@@ -16,7 +16,7 @@
 
 ###
 
-<h1 align="left">🛠 Language and tools</h1>
+<h1 align="left">💻 Tech Stack</h1>
 
 ###
 
