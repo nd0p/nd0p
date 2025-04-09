@@ -18,4 +18,5 @@ Hello, My Name is Nizar a basic web developer & network engineer<br><br>I'm lear
 ---
 [![](https://visitcount.itsvg.in/api?id=nd0p&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=315idr3o4tvtjsqdvcoauj2x7uh4)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
