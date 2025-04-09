@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nd0p.nd0p&right_color=green&left_text=Profiles%20views"  />
 </div>
-
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 ###
 
 <h1 align="left">💫  About Me</h1>
