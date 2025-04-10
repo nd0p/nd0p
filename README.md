@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Hello, My Name is Nizar a basic Web Developer, Network Engineer & System Administrator<br><br>I'm learning Next.js, Typescript, React, Tailwindcss</p>
+<p align="left">Hello, My Name is Nizar a Network Engineer, System Administrator & basic Web Developer<br><br>I'm learning Next.js, Typescript, React, Tailwindcss</p>
 
 ###
 
