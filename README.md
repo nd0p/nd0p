@@ -9,11 +9,10 @@
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-https://img.shields.io/badge/-CachyOS-00AA88?style=flat-square&logo=cachyos&logoColor=black
+![CachyOS](https://img.shields.io/badge/-CachyOS-00AA88?style=flat-square&logo=cachyos&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=black
+![K8S](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=black)
 ![Linux](https://img.shields.io/badge/-VPS%20%26%20NAS-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 [![Email](https://img.shields.io/badge/Email-fuyukasane%40gmail.com-000000?style=flat-square&logo=mail&logoColor=white)](mailto:fuyukasane@gmail.com)
