@@ -1,58 +1,33 @@
-<br clear="both">
+# What are we building today?
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nd0p.nd0p&right_color=green&left_text=Profiles%20views"  />
-  <a href="https://github.com/nd0p?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/nd0p?color=green&logo=github">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=958EF7&center=true&vCenter=true&width=435&lines=Open-Source+Apps+Enthusiast;Arch+%2B+Hyprland+Enthusiast;Backend+Developer;System+Administrator;Network+Administrator;Self-Hosting+4+The+Win!" alt="Typing SVG" />
 </div>
 
-###
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+https://img.shields.io/badge/-CachyOS-00AA88?style=flat-square&logo=cachyos&logoColor=black
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=black
+![Linux](https://img.shields.io/badge/-VPS%20%26%20NAS-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<h1 align="left">💫  About Me</h1>
+[![Email](https://img.shields.io/badge/Email-fuyukasane%40gmail.com-000000?style=flat-square&logo=mail&logoColor=white)](mailto:fuyukasane@gmail.com)
+[![afdian](https://img.shields.io/badge/afdian-fuyuki810-FCC624?style=flat-square&logo=afdian&logoColor=white)](https://afdian.com/a/fuyuki810)
 
-###
+### 👨‍💻 About Me
 
-<p align="left">Hello👋🏻, I'm Nizar a Network Engineer, System Administrator & basic Web Developer<br><br>I'm learning Next.js, Typescript, React, Tailwindcss</p>
-
-###
-
-<h1 align="left">💻 Tech Stack</h1>
-
-###
+* 🛠️ **Full-Stack:** Building web applications utilizing **React**, **Vite**, **Vercel**, **Cloudflare Workers**, and **Python**.
+* ✨ **Currently Exploring:** Frontend animations, focusing on crafting smooth, high-performance UI interactions.
+* 🐳 **Infrastructure**: Self-hosting Maniac. I like tinkering with Docker, maintaining my VPS, and managing various services on my home NAS. No more [someone else's computer](https://medium.com/@brian.greenberg/there-is-no-cloud-its-just-someone-else-s-computer-fe8b62a027a5).
+* 💻 **BTW:** **Arch Linux + Hyprland** enthusiast, enjoying the tiling experience.
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <a href="https://github.com/nd0p"><img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=nd0p&custom_title=%E4%B8%8D%E5%90%83%E9%B1%BC%27s%20Github%20Stats&show_icons=true&theme=material-palenight&hide_border=true&count_private=true?3" alt="GitHub stats" /></a><a href="https://github.com/nd0p"><img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=nd0p&layout=compact&langs_count=8&theme=material-palenight&hide_border=true" alt="Top Languages" /></a>
 </div>
 
-###
-
-<h1 align="left">📊   Github Stats:</h1>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nd0p&custom_title=Contribution%20Graph&theme=tokyo-night&area=true&hide_border=true&hide_title=false" height="187" alt="activity-graph graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=nd0p&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1&custom_title=My%20Github%20Stats" height="223" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nd0p&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=nd0p&theme=tokyonight&column=8&row=100&no-frame=true&no-bg=false&margin-w=6" height="150" alt="trophy graph"  />
-</div>
-
-###
+---
