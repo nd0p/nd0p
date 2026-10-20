@@ -23,7 +23,7 @@
 * 💻 **BTW:** **Arch Linux + Hyprland** enthusiast, enjoying the tiling experience.
 
 <div align="center">
-  <a href="https://github.com/nd0p"><img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=nd0p&custom_title=%E4%B8%8D%E5%90%83%E9%B1%BC%27s%20Github%20Stats&show_icons=true&theme=material-palenight&hide_border=true&count_private=true?3" alt="GitHub stats" /></a><a href="https://github.com/nd0p"><img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=nd0p&layout=compact&langs_count=8&theme=material-palenight&hide_border=true" alt="Top Languages" /></a>
+  <a href="https://github.com/nd0p"><img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=nd0p&theme=radical&hide_border=true&count_private=true?3" alt="GitHub stats" /></a><a href="https://github.com/nd0p"><img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=nd0p&layout=compact&langs_count=8&card_width=320&theme=radical&hide_border=true" alt="Top Languages" /></a>
 </div>
 
 ---
