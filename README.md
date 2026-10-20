@@ -15,9 +15,6 @@
 ![K8S](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=black)
 ![Linux](https://img.shields.io/badge/-VPS%20%26%20NAS-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-[![Email](https://img.shields.io/badge/Email-fuyukasane%40gmail.com-000000?style=flat-square&logo=mail&logoColor=white)](mailto:fuyukasane@gmail.com)
-[![afdian](https://img.shields.io/badge/afdian-fuyuki810-FCC624?style=flat-square&logo=afdian&logoColor=white)](https://afdian.com/a/fuyuki810)
-
 ### 👨‍💻 About Me
 
 * 🛠️ **Full-Stack:** Building web applications utilizing **React**, **Vite**, **Vercel**, **Cloudflare Workers**, and **Python**.
